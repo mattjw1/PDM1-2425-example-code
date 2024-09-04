@@ -1,0 +1,42 @@
+.DS_Store
+.vscode
+/node_modules
+
+# Solution and example code to ignore until release time #
+# /Practicals/W1P2 solutions
+# /Practicals/W2P1 solutions
+# /Practicals/W2P2 solutions
+# /Snake/W2P2
+# /Practicals/W3P1 solutions
+# /Snake/W3P1
+# /Practicals/W3P2 solutions
+# /Snake/W3P2
+# /Lectures/W4L1 examples/halloweenV2
+# /Snake/W4P1
+# /Practicals/W4P2 solutions
+# /Lectures/W5L1 examples/randomRects
+# /Practicals/W5P1 solutions
+# /Snake/W5P1
+# /Practicals/W5P2 solutions
+# /Snake/W5P2
+# /Practicals/W6P1 solutions
+# /Snake/W6P1
+# /Lectures/W6L2 examples/manyBouncingBallsOO
+# /Practicals/W6P2 solutions
+# /Snake/W6P2
+# /Practicals/W7P1 solutions
+# /Snake/W7P1
+# /Practicals/W7P2 solutions
+# /Practicals/W8P1 solutions
+# /Practicals/W8P2 solutions
+# /Practicals/W9P1 solutions
+# /Lectures/W9L2 examples/obstaclesFixAttempt1
+# /Lectures/W9L2 examples/obstaclesFixAttempt2
+# /Lectures/W9L2 examples/obstaclesFixFinal
+# /Lectures/W9L2 examples/pyramid1
+# /Lectures/W9L2 examples/pyramid2
+# /Lectures/W9L2 examples/pyramid3
+# /Practicals/W9P2 solutions
+# /Practicals/W10P1 solutions
+# /Practicals/W10P2 solutions
+# /Exam practice solutions
