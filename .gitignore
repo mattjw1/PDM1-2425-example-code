@@ -3,40 +3,96 @@
 /node_modules
 
 # Solution and example code to ignore until release time #
+
+# Week 1#
+#1#
+/Lectures/W1L1 examples
+/Practicals/W1P1 solutions
+#2#
+/Lectures/W1L2 examples
 /Practicals/W1P2 solutions
+
+# Week 2#
+#1#
+/Lectures/W2L1 examples
 /Practicals/W2P1 solutions
+#2#
+/Lectures/W2L2 examples
 /Practicals/W2P2 solutions
 /Snake/W2P2
+
+# Week 3#
+#1#
+/Lectures/W3L1 examples
 /Practicals/W3P1 solutions
 /Snake/W3P1
+#2#
+/Lectures/W3L2 examples
 /Practicals/W3P2 solutions
 /Snake/W3P2
+
+# Week 4#
+#1#
+/Lectures/W4L1 examples
+/Lectures/W4L1 examples/halloweenV1
 /Lectures/W4L1 examples/halloweenV2
+/Practicals/W4P1 solutions
 /Snake/W4P1
+#2#
+/Lectures/W4L2 examples
 /Practicals/W4P2 solutions
-/Lectures/W5L1 examples/randomRects
+
+# Week 5#
+#1#
+/Lectures/W5L1 examples
 /Practicals/W5P1 solutions
 /Snake/W5P1
+#2#
+/Lectures/W5L2 examples
 /Practicals/W5P2 solutions
 /Snake/W5P2
+
+# Week 6#
+#1#
+/Lectures/W6L1 examples
 /Practicals/W6P1 solutions
 /Snake/W6P1
-/Lectures/W6L2 examples/manyBouncingBallsOO
+#2#
+/Lectures/W6L2 examples
 /Practicals/W6P2 solutions
 /Snake/W6P2
+
+# Week 7#
+#1#
+/Lectures/W7L1 examples
 /Practicals/W7P1 solutions
 /Snake/W7P1
+#2#
+/Lectures/W7L2 examples
 /Practicals/W7P2 solutions
+
+# Week 8#
+#1#
+/Lectures/W8L1 examples
 /Practicals/W8P1 solutions
+#2#
+/Lectures/W8L2 examples
 /Practicals/W8P2 solutions
+
+# Week 9#
+#1#
+/Lectures/W9L1 examples
 /Practicals/W9P1 solutions
-/Lectures/W9L2 examples/obstaclesFixAttempt1
-/Lectures/W9L2 examples/obstaclesFixAttempt2
-/Lectures/W9L2 examples/obstaclesFixFinal
-/Lectures/W9L2 examples/pyramid1
-/Lectures/W9L2 examples/pyramid2
-/Lectures/W9L2 examples/pyramid3
+#2#
+/Lectures/W9L2 examples
 /Practicals/W9P2 solutions
+
+# Week 10#
+#1#
+/Lectures/W10L1 examples
 /Practicals/W10P1 solutions
+#2#
+/Lectures/W10L2 examples
 /Practicals/W10P2 solutions
+
 /Exam practice solutions
